@@ -34,7 +34,7 @@ github_username:  jekyll
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
- plugins:
+plugins:
   - jekyll-remote-theme
 
 
